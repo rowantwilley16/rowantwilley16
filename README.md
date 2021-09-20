@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rowantwilley16
+- 👀 I’m interested in software development in python and c. 
+- 🌱 I’m currently studying electical/electronic engineering(year 3).
+- 📫 Reach me here : twilley.rowan@gmail.com
