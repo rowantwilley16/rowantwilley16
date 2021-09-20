@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @rowantwilley16
-- 👀 I’m interested in software development in python and c. 
-- 🌱 I’m currently studying electical/electronic engineering(year 3).
+- 📚 I'm experienced in c coding specifically on STM microcontrollers. 
+- 👀 I’m currently learning software development in python and scripting.
+- 🌱 I’m currently studying electical/electronic engineering(year 3) at SU.
 - 📫 Reach me here : twilley.rowan@gmail.com
