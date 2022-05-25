@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rowantwilley16
-- 📚 I'm experienced in embedded C, python and Java, flutter + dart, HTML, CSS.
+- 📚 I'm experienced in embedded C, python and Java, flutter + dart, HTML, CSS,JavaScript.
 - 👀 I’m currently learning web develepment in using Flask Framework as well as machine learning in python.
 - 🌱 I’m currently studying electical/electronic engineering(year 4) at SU.
 - 📫 Reach me here : twilley.rowan@gmail.com
