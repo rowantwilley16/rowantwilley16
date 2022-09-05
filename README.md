@@ -3,4 +3,3 @@
 - 👀 I’m currently learning web develepment in using Flask Framework as well as machine learning in python.
 - 🌱 I’m currently studying electical/electronic engineering(year 4) at SU.
 - 📫 Reach me here : twilley.rowan@gmail.com
-- currently working on some CSS animations and will be uploading in the coming days... 
