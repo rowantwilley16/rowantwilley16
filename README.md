@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rowantwilley16
 - 📚 I'm experienced in embedded C, python and Java, flutter + dart, HTML, CSS,JavaScript.
 - 🌱 I’m currently studying electical/electronic engineering(Masters) at SU.
-- 📫 Reach me here : twilley.rowan@gmail.com
+- 📫 Reach me here :
