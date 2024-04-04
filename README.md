@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ⚡ About Me:
 🔭 I’m currently working on my master's in electrical engineering <br>👯 I’m looking to collaborate on projects in backend web development <br>🌱 I’m currently learning VHDL, embedded systems<br><br>⚡ Fun fact - I like F1
 
 
