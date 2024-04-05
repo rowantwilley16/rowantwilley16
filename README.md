@@ -1,4 +1,4 @@
-#### About me: 
+#### **About me**: 
  I’m currently working on my master's in electrical engineering <br>🌱 I’m currently learning VHDL, embedded systems<br>
 
 #### **Socials**:
@@ -46,12 +46,12 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
-#### GitHub Stats:
+#### **GitHub Stats**:
 ![](https://github-readme-stats.vercel.app/api?username=rowantwilley16&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rowantwilley16&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rowantwilley16&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-#### 🔝 Top Contributed Repo
+#### 🔝 **Top Contributed Repo**
 ![](https://github-contributor-stats.vercel.app/api?username=rowantwilley16&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
