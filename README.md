@@ -1,6 +1,4 @@
-# ⚡ About Me:
-🔭 I’m currently working on my master's in electrical engineering <br>👯 I’m looking to collaborate on projects in backend web development <br>🌱 I’m currently learning VHDL, embedded systems<br><br>⚡ Fun fact - I like F1
-
+ I’m currently working on my master's in electrical engineering <br>👯 I’m looking to collaborate on projects in backend web development <br>🌱 I’m currently learning VHDL, embedded systems<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rowan.twilley) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rowan-twilley) 
