@@ -1,4 +1,4 @@
-##About me: 
+## About me: 
  I’m currently working on my master's in electrical engineering <br>🌱 I’m currently learning VHDL, embedded systems<br>
 
 ## 🌐 Socials:
